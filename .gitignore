@@ -1,3 +1,5 @@
+
+
 # Editor temporary files
 *.swp
 *.swo
@@ -6,7 +8,20 @@
 
 # Sensitive/local files
 cookies.txt
+.env
+*.key
+*.pem
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Temporary / test files
+Nmap/x
+Enumeration/o4
+Enumeration/login.htm
+Enumeration/notes.txt
+Nmap/notes.txt
+Nmap/*.gnmap
+Nmap/*.nmap
+Nmap/*.xml
